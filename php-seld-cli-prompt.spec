@@ -1,12 +1,12 @@
 %define		pkgname	cli-prompt
 Summary:	Allows you to prompt for user input on the command line
 Name:		php-seld-cli-prompt
-Version:	1.0.0
+Version:	1.0.2
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://github.com/Seldaek/cli-prompt/archive/%{version}/%{pkgname}-%{version}.tar.gz
-# Source0-md5:	8895b5ec3d8f0212239e86be768391f6
+# Source0-md5:	8991b5b62cbc43f76c037c8b41ed578b
 URL:		https://github.com/Seldaek/cli-prompt
 Requires:	php(core) >= 5.3.0
 Requires:	php(pcre)
