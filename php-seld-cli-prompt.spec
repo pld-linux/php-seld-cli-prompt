@@ -2,7 +2,7 @@
 Summary:	Allows you to prompt for user input on the command line
 Name:		php-seld-cli-prompt
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://github.com/Seldaek/cli-prompt/archive/%{version}/%{pkgname}-%{version}.tar.gz
